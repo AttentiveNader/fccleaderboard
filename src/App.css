@@ -1,0 +1,25 @@
+.info-row{
+  z-index: 5;
+  background: #daCeef;
+}
+.app{
+  margin-top:10px;
+}
+ .foo{
+ margin: 0 auto;
+ text-align: center;
+ padding: 10px;
+}
+.positive-row{
+  z-index: 5;
+  background: #000;
+}
+.camper{
+  cursor: pointer;
+}
+.switch{
+  position :fixed;
+  top: 30px;
+  left: 60px;
+  z-index: 9
+}
